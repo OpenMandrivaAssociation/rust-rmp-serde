@@ -5,7 +5,7 @@
 %global crate rmp-serde
 
 Name:           rust-%{crate}
-Version:        0.14.2
+Version:        1.3.1
 Release:        1%{?dist}
 Summary:        Serde bindings for RMP
 
